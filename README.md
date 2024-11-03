@@ -10,7 +10,7 @@ This project focuses on building and evaluating advanced Retrieval-Augmented Gen
 - **Llama_index**: Facilitates indexing and retrieval of large document datasets, crucial for efficient RAG.
 - **LangChain**: A framework that supports building language model pipelines, making it easier to combine retrieval and generation steps in RAG.
 
-## Techniques and Approaches    
+## Techniques and Approaches        
 
 ### 1. **Advanced RAG Retrieval**
    **What is it?**
