@@ -1,5 +1,5 @@
 # Building and Evaluating Advanced RAG  (Retrieval-Augmented Generation) 
-            
+             
 ## Overview   
 This project focuses on building and evaluating advanced Retrieval-Augmented Generation (RAG) techniques. RAG is a powerful approach that combines the strengths of information retrieval and generative models to produce more accurate and contextually relevant responses. By using advanced retrieval methods and evaluation metrics, this project aims to enhance the performance of RAG systems.
        
