@@ -5,7 +5,7 @@ This project focuses on building and evaluating advanced Retrieval-Augmented Gen
  
 ## Tools and Libraries Used    
 - **OpenAI**: Provides access to powerful generative models used for generating responses based on retrieved information.
-- **Pandas**: A data manipulation library essential for managing and analyzing datasets during evaluation. 
+- **Pandas**: A data manipulation library essential for managing and analyzing datasets during evaluation.  
 - **TruLens_eval**: A framework for evaluating the performance of language models, particularly useful for measuring the effectiveness of RAG systems.
 - **Llama_index**: Facilitates indexing and retrieval of large document datasets, crucial for efficient RAG.
 - **LangChain**: A framework that supports building language model pipelines, making it easier to combine retrieval and generation steps in RAG.
