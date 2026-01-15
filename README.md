@@ -4,7 +4,7 @@
 This project focuses on building and evaluating advanced Retrieval-Augmented Generation (RAG) techniques. RAG is a powerful approach that combines the strengths of information retrieval and generative models to produce more accurate and contextually relevant responses. By using advanced retrieval methods and evaluation metrics, this project aims to enhance the performance of RAG systems.     
  
 ## Tools and Libraries Used      
-- **OpenAI**: Provides access to powerful generative models used for generating responses based on retrieved information. 
+- **OpenAI**: Provides access to powerful generative models used for generating responses based on retrieved information.  
 - **Pandas**: A data manipulation library essential for managing and analyzing datasets during evaluation.  
 - **TruLens_eval**: A framework for evaluating the performance of language models, particularly useful for measuring the effectiveness of RAG systems.
 - **Llama_index**: Facilitates indexing and retrieval of large document datasets, crucial for efficient RAG.
