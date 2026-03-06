@@ -70,3 +70,49 @@ This project focuses on building and evaluating advanced Retrieval-Augmented Gen
 
 ## Conclusion
 This project presents a robust framework for building and evaluating advanced RAG systems. By leveraging sophisticated retrieval techniques and comprehensive evaluation metrics, it aims to push the boundaries of what RAG systems can achieve, making them more accurate, relevant, and efficient for a wide range of applications.
+
+## Getting Started
+
+### Prerequisites
+- Python 3.9+
+- OpenAI API Key
+- pip package manager
+
+### Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/Aftabbs/Build-and-Evaluate-Advanced-RAG.git
+cd Build-and-Evaluate-Advanced-RAG
+
+# Install dependencies
+pip install openai pandas trulens-eval llama-index langchain
+
+# Set your API key
+export OPENAI_API_KEY="your-openai-api-key"
+```
+
+### Running the Notebooks
+
+Navigate to the `Advanced RAG Build And Evaluate` directory and open any notebook with JupyterLab or Jupyter Notebook:
+
+```bash
+jupyter notebook
+```
+
+## Project Structure
+
+```
+Build-and-Evaluate-Advanced-RAG/
+│
+├── Advanced RAG Build And Evaluate/   # Jupyter notebooks with implementations
+│   ├── advanced_rag_retrieval.ipynb
+│   ├── sentence_window_retrieval.ipynb
+│   └── auto_merging_retrieval.ipynb
+│
+└── README.md
+```
+
+## Contributing
+
+Contributions, issues, and feature requests are welcome. Feel free to open an issue or submit a pull request.
